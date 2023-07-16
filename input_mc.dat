@@ -1,0 +1,8 @@
+#   boxlength  NoofMC	NoofParticle     NoofCrowd	max_dis 	max_dis_angle	R		T	
+       9.0		10000    		10 		0	0.6		0.4	0.008314	70
+#	theta0		maxtheta	eps_patch	eps_drive	patch_width
+	0.35		3.14159		2.0		1.0		0.85
+#Epsilon11(kJ/mol)      Epsilon12(kJ/mol)	Epsilon22(kJ/mol)
+     	3.0        		1.0			1.0
+#Sgma	sgmatelve	sgmahex
+2.0	4096		64
