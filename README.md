@@ -77,8 +77,8 @@ This program simulates the behavior of patchy particles with crowding agents usi
 1. Prepare the input files (`input_mc.dat`, `ini_simu.xyz`).
 2. Compile and run the program:
    ```
-   gfortran mc.f90 -o mc
-   ./mc
+   gfortran mc_patchy_distinguish_v8a_crowd_pbc.f95 -o crowd
+   ./crowd
    ```
 3. The program will output the following files:
    - **initial_simu.xyz**: Logs the initial configuration of particles and patches.
