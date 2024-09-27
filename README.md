@@ -1,6 +1,7 @@
 # Monte Carlo Program to Simulate Patchy Spheres with Crowding Agents
 **Read** - J. Chem. Theory Comput. 2024, 20, 18, 7700–7707 https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c01118
 
+
 ## Overview
 
 This program simulates the behavior of patchy particles with crowding agents using the Monte Carlo (MC) method. Patchy particles have specific interaction sites (patches) that control how they interact with each other, facilitating the study of self-assembly processes. The simulation also includes crowding agents, which influence the assembly and energy of the system. The program tracks particle positions, patch orientations, energies, and bonding interactions.
